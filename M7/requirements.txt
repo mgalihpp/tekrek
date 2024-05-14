@@ -1,0 +1,7 @@
+tensorflow
+opencv-python
+keras
+imageAI
+torch
+torchvision
+ipython
